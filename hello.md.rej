@@ -1,0 +1,11 @@
+diff a/hello.md b/hello.md	(rejected hunks)
+@@ -5,4 +5,6 @@
+ - Clone :���� ����� ����
+ - add : �������� ������ �۾����� �߰�
+ - Commit: ���̺�, �������� ������ ���ϵ��� ������ Ŀ��(== ���̺�)�� ���� �� �ִ�.
+-- Push: Ŀ���� ������ �Ѱ��ش�.
+\ No newline at end of file
++- Push: Ŀ���� ������ �Ѱ��ش�.
++
++test.
+\ No newline at end of file
